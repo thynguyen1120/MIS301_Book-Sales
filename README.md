@@ -1,4 +1,4 @@
-# Book Stores’ Performance Ana
+# Book Stores’ Performance Analysis
 ## 📌 Introduction
 This project analyzes book sales performance for Q2 2023, focusing on sales revenue, genre preferences, audience segmentation, and customer ratings.  
 The dataset contains transactions for April, May, and June 2023.
