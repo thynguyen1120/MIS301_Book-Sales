@@ -20,7 +20,7 @@ The dataset contains transactions for April, May, and June 2023.
 - June average revenue: **$17.37**  
 - Change: **↓ 3.4%**, indicating stable performance.  
 
-![Average Revenue - May vs June](images/revenue_may_june.png)
+![Average Revenue - May vs June](revenue_may_june.png)
 
 ---
 
@@ -28,7 +28,7 @@ The dataset contains transactions for April, May, and June 2023.
 - Fiction: **78.95%** of total sales  
 - Non-Fiction: **21.05%**
 
-![Genre Distribution - June](images/genre_distribution_june.png)
+![Genre Distribution - June](genre_distribution_june.png)
 
 ---
 
@@ -37,7 +37,7 @@ The dataset contains transactions for April, May, and June 2023.
 - Children: Lowest revenue but grew by 20%  
 - Teens: Slight decline (-10%) but still second place  
 
-![Revenue Change by Audience](images/audience_revenue_change.png)
+![Revenue Change by Audience](audience_revenue_change.png)
 
 ---
 
@@ -46,7 +46,7 @@ The dataset contains transactions for April, May, and June 2023.
 - Children’s books: Lowest in April but improved in June  
 - Teens’ books: Decrease in June after an increase in May  
 
-![Average Ratings by Month & Audience](images/average_ratings.png)
+![Average Ratings by Month & Audience](average_ratings.png)
 
 ---
 
