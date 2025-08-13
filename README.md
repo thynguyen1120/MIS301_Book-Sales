@@ -75,8 +75,6 @@ The dataset contains transactions for April, May, and June 2023.
 
 
 
-⸻
-
 📜 License
 
 This project is for academic purposes.
